@@ -85,10 +85,10 @@ Finding reliable and suitable architects for construction or renovation projects
 ![Login Page](screenshots/login.png)
 
 ### 👤 User Dashboard
-![User Dashboard](screenshots/userpage.png)
+![User Dashboard](screenshots/Userpage.png)
 
 ### 🏢 Architect Dashboard
-![Architect Dashboard](screenshots/architect-dashboard.png)
+![Architect Dashboard](screenshots/Architect-dashboard.png)
 
 
 
