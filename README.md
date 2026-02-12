@@ -76,10 +76,21 @@ Finding reliable and suitable architects for construction or renovation projects
 ---
 
 ##  Screenshots
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 👤 User Dashboard
+![User Dashboard](screenshots/userpage.png)
+
+### 🏢 Architect Dashboard
+![Architect Dashboard](screenshots/architect-dashboard.png)
+
 
 
 ---
 
-
-MCA Student  
-Web Application Developer
